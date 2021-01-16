@@ -1,2 +1,2 @@
-# JogoJokenpo
- Um simples Jogo de Jokenpo(Pedra, papel ou tesoura) com a máquina
+# Jogo Jokenpo
+ Um simples Jogo de **Jokenpo** _(Pedra, papel ou tesoura)_ com a Máquina usando **Python**
